@@ -1,2 +1,15 @@
-# web-develop-antd
-web page based on antd
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
